@@ -1,0 +1,7 @@
+name,email,password,role,department,employeeId
+Ravi Sharma,employee@evms.com,Employee@123,employee,Sales,EMP-001
+Anita Director,director@evms.com,Director@123,director,,
+Vikram Accounts,accounts@evms.com,Accounts@123,accounts,,
+sarita,more.sarita2005@gmail.com,sarita123,director,,
+kiran,k@gmail.com,k123,employee,technical,,
+mansi,mansi@gmail.com,mansi123,Accounts,,
